@@ -1,4 +1,12 @@
-####  “3D Viewer” is an interactive application that showcases ‘.obj’ 3D models, allowing users to move, zoom and rotate objects, with support for both parallel and frustum projections.
+####  “3D Viewer” is an interactive application for displaying 3D models.
+
+Functionality:
+- move, zoom and rotate objects using mouse or control panel
+- switch between parallel and frustum projections
+- save as jpg- or bmp-image 
+- save as gif-animation
+- toggle display as solid lines, stripes, points, round points
+- choose color for model and background
 
 
 For installation, execute the make install command from the src directory.
