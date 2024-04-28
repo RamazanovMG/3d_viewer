@@ -2,7 +2,7 @@
 
 For installation, please proceed as follows:
 
-- Open the .pro file using Qt Creator, ensuring it is configured with version 6.5.1.
+- Open the src/view/CPP4_3DViewer_v2_0.pro file using Qt Creator, ensuring it is configured with version 6.5.1.
 - Alternatively, execute the make install command from the src directory.
 Please ensure that the necessary permissions and dependencies are in place before initiating the installation process. 
 
